@@ -42,6 +42,6 @@ A pricing toolkit for photographers, filmmakers and creative crews, on iPhone, i
 <summary><b>🧰 Off the clock</b></summary>
 <br/>
 
-Home server, Tailscale, Flipper Zero, 3D printing, and a lot of Linux.
+Home server, Tailscale, Flipper Zero, 3D printing, Grandpa the cat and food.
 
 </details>
